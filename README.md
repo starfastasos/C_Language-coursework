@@ -30,16 +30,6 @@ This project consists of two exercises related to **electricity management** usi
 - **C Compiler** (GCC recommended)
 - Compatible operating system (Linux, Windows, or macOS)
 
-### Compilation
-To compile Exercise 1:
-```sh
-gcc electricity_cost.c -o electricity_cost
-```
-To compile Exercise 2:
-```sh
-gcc customer_management.c -o customer_management
-```
-
 ## Usage Instructions
 
 ### User Functions
